@@ -1,0 +1,57 @@
+# robots.txt — Centro Estética Barcelona
+User-agent: *
+Allow: /
+
+# Buscadores
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Bingbot
+Allow: /
+
+# Agentes de IA: acceso permitido (visibilidad en AI Search)
+User-agent: Google-Extended
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Bingbot-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+
+# Rastreadores comerciales de SEO
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+# Páginas sin valor de indexación
+Disallow: /solicitud-recibida/
+
+Sitemap: https://www.estetica-barcelona.es/sitemap_index.xml
+Sitemap: https://www.estetica-barcelona.es/page-sitemap.xml

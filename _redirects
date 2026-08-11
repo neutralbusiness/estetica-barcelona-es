@@ -1,0 +1,30 @@
+# Restos de WordPress -> 301 (Cloudflare Pages)
+/wp-admin/*            /                                301
+/wp-login.php          /                                301
+/wp-content/*          /                                301
+/wp-includes/*         /                                301
+/wp-json/*             /                                301
+/xmlrpc.php            /                                301
+/index.php             /                                301
+/feed                  /blog/                           301
+/feed/*                /blog/                           301
+/comments/feed/*       /blog/                           301
+/category/*            /blog/                           301
+/tag/*                 /blog/                           301
+/author/*              /sobre-nosotros/                 301
+/2024/*                /blog/                           301
+/2025/*                /blog/                           301
+/2026/*                /blog/                           301
+
+# Rutas antiguas o alternativas hacia el nuevo mapa
+/servicios/maderoterapia-barcelona/  /servicios/maderoterapia/  301
+/maderoterapia/        /servicios/maderoterapia/        301
+/tratamientos-corporales/ /servicios/tratamientos-corporales/ 301
+/tratamientos-faciales/   /servicios/tratamientos-faciales/   301
+/micropigmentacion-cejas/ /servicios/micropigmentacion-cejas/ 301
+/masajes/              /servicios/masajes/              301
+/empresa/              /sobre-nosotros/                 301
+/nosotros/             /sobre-nosotros/                 301
+/precios/              /tarifas/                        301
+/contactar/            /contacto/                       301
+/gracias/              /solicitud-recibida/             301

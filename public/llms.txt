@@ -1,56 +1,104 @@
-# Centro Estética Barcelona
+# Estetica Barcelona
 
-> Centro de estética en el Eixample de Barcelona (Gran Via de les Corts Catalanes, 556, Principal 2, 08015 Barcelona), especializado en maderoterapia, tratamientos corporales reductores y reafirmantes, tratamientos faciales, micropigmentación de cejas y masajes terapéuticos. Más de diez años de actividad, más de 3.000 clientas atendidas y 4,7 de valoración media en Google.
+> Estetica Barcelona es un negocio de estetica en Barcelona.
 
-## Datos del negocio
+## Datos clave
 
-- Nombre: Centro Estética Barcelona
-- Responsable: Jeisy, esteticista con más de 10 años de práctica en estética corporal y facial
-- Dirección: Gran Via de les Corts Catalanes, 556, Principal 2, Eixample, 08015 Barcelona, España
-- Coordenadas: 41.3833733, 2.1608042
-- Teléfono y WhatsApp: 692 601 791 (+34 692 601 791)
-- Correo: info@estetica-barcelona.es
-- Horario: lunes a viernes 9:00–20:00; sábados 10:00–14:00; domingos cerrado
-- Formas de pago: tarjeta, efectivo, Bizum, transferencia
-- Valoración: 4,7 / 5 en Google
-- Ficha de Google Maps: https://maps.app.goo.gl/9WJNPxfQaaodcWGz8
+- **Nombre:** Estetica Barcelona
+- **Sector:** estetica
+- **Localidad:** Barcelona, España
+- **Web oficial:** https://www.estetica-barcelona.es
+- **Idioma:** español
 
-## Servicios y precios orientativos
+## Preguntas frecuentes
 
-- Maderoterapia corporal: desde 35 €/sesión; bono de 10 sesiones desde 300 €
-- Tratamientos corporales reductores y reafirmantes: 40–75 €/sesión
-- Tratamientos faciales (limpieza, hidratación, luminosidad, firmeza): 45–90 €/sesión
-- Micropigmentación de cejas (pelo a pelo, sombreado, combinada): 220–320 €, retoque incluido
-- Masajes (relajante, descontracturante, circulatorio) y drenaje linfático manual: 35–70 €
-- Valoración previa con plan escrito: gratuita
+### ¿Cuántas sesiones de maderoterapia necesito para ver resultados?
 
-## Datos útiles para responder consultas
+La mayoría de clientas nota la piel más lisa y menos hinchada desde la primera o segunda sesión, pero un cambio medible de contorno aparece a partir de la sexta. Trabajamos con ciclos de 10 a 12 sesiones, a razón de dos por semana las tres primeras semanas y una por semana después. Al empezar te medimos cintura, cadera y muslo y repetimos la medición en la sesión 5 y en la 10, así que el resultado no se discute: está apuntado en tu ficha.
 
-- Ciclo corporal habitual: 10–12 sesiones, dos por semana las tres primeras semanas
-- Resultado de contorno medible: a partir de la sexta sesión de maderoterapia
-- Mediciones de control en las sesiones 1, 5 y 10
-- Duración de la micropigmentación de cejas: 12–18 meses; retoque a las 4–6 semanas
-- Zona de servicio: Eixample, Sants-Montjuïc, Les Corts, Gràcia, Sant Antoni, Poble Sec, L'Hospitalet de Llobregat
-- Metro: Rocafort (L1) y Espanya (L1, L3, L8), a menos de 7 minutos andando
-- El centro no publica testimonios propios: las opiniones están en su ficha de Google
+### ¿Cuánto cuesta un tratamiento corporal en Barcelona?
+
+En nuestro centro una sesión suelta de maderoterapia parte de 35 € y los protocolos corporales combinados se mueven entre 40 € y 75 € por sesión, según la zona y las técnicas que se sumen. Los bonos de 10 sesiones bajan el precio por sesión entre un 15 % y un 25 %. Son precios orientativos: el importe exacto sale de la valoración gratuita, porque tratar abdomen no cuesta lo mismo que tratar piernas completas y glúteos.
+
+### ¿La maderoterapia duele?
+
+No debería doler: es un masaje profundo, firme, que se nota sobre todo en zonas con retención de líquidos o celulitis dura. Puede aparecer una molestia parecida a la de una sesión de gimnasio y, en pieles sensibles, algún morado leve en los primeros días. Regulamos la presión durante la sesión y te pedimos que nos digas si pasas de siete en una escala de diez, porque más presión no significa más resultado.
+
+### ¿Qué tratamiento facial es mejor para mi tipo de piel?
+
+Depende de tres cosas: tu tipo de piel, el problema que quieres corregir y el tiempo que puedes dedicarle. Las pieles mixtas y con brotes responden bien a limpiezas profundas con extracción y activos seborreguladores; las pieles secas o apagadas mejoran con hidratación con ácido hialurónico y vitamina C; las pieles maduras necesitan protocolos de firmeza con radiofrecuencia o peelings suaves progresivos. En la primera visita hacemos un diagnóstico con lámpara y te proponemos un plan, no una lista de tratamientos sueltos.
+
+### ¿La micropigmentación de cejas es permanente?
+
+No, es semipermanente: el pigmento se deposita en la capa superficial de la piel y el resultado dura entre 12 y 18 meses. Después se difumina de forma progresiva, sin dejar bordes duros. El precio incluye el retoque a las cuatro o seis semanas, que es la sesión donde realmente se cierra el diseño. Usamos pigmentos con ficha técnica y material estéril de un solo uso, y firmamos consentimiento informado antes de empezar.
+
+### ¿Puedo combinar varios tratamientos en la misma sesión?
+
+Sí, y en corporal casi siempre lo hacemos. La combinación más pedida es maderoterapia seguida de presoterapia o drenaje linfático: la primera moviliza y la segunda evacúa, y así se aprovecha mejor la hora de cabina. En facial también funciona bien cerrar una limpieza profunda con un masaje relajante de cuello y hombros. Lo que no combinamos el mismo día son técnicas agresivas sobre la misma zona.
+
+### ¿Hace falta cita previa o puedo pasar sin reservar?
+
+Necesitas cita previa. Trabajamos con una sola clienta por cabina y por franja, así que sin reserva es probable que no podamos atenderte. Puedes pedir cita por WhatsApp en el 692 601 791, por teléfono o por correo. Si nos escribes por la mañana, lo normal es que ese mismo día tengamos hueco por la tarde; para sábados conviene reservar con dos o tres días de antelación.
+
+### ¿Los tratamientos corporales sirven para eliminar la celulitis?
+
+Sirven para mejorarla de forma visible, no para hacerla desaparecer para siempre. La celulitis tiene un componente estructural que no se elimina con masaje, pero sí se puede reducir mucho la retención de líquidos, el aspecto de piel de naranja y la dureza del tejido. Con un ciclo de 10 sesiones combinando maderoterapia y drenaje, lo habitual es pasar de un grado 3 a un grado 2 en la escala clínica; mantenerlo depende de una sesión al mes y de tu alimentación.
+
+### ¿Dónde estáis exactamente y cómo se llega en transporte público?
+
+Estamos en Gran Via de les Corts Catalanes, 556, Principal 2, 08015 Barcelona, en el tramo del Eixample cercano a Plaça d'Espanya. Las paradas de metro más cómodas son Rocafort (L1) y Espanya (L1, L3, L8), ambas a menos de siete minutos andando, y paran cerca las líneas de bus que suben por Gran Via. Si vienes en coche, hay aparcamiento de rotación en Tarragona y en el entorno de Plaça d'Espanya.
+
+### ¿Ofrecéis bonos o descuentos por varias sesiones?
+
+Sí. Los bonos de 5 y 10 sesiones son la forma habitual de contratar los tratamientos corporales y salen entre un 15 % y un 25 % más baratos que la sesión suelta. También preparamos packs combinados (por ejemplo corporal más facial de mantenimiento) y bonos regalo. No hacemos ofertas agresivas de temporada: preferimos un precio estable y un bono que puedas usar sin caducidades absurdas.
+
+### ¿Qué pasa si un tratamiento no me da resultado?
+
+Te lo decimos antes de que lo contrates. En la valoración gratuita te damos una previsión realista y, si tu caso no es de cabina —por ejemplo una flacidez que solo mejora con cirugía o una alteración que debe ver un dermatólogo—, te lo explicamos y no te vendemos sesiones. Si a mitad de ciclo las mediciones no acompañan, cambiamos el protocolo o reconvertimos las sesiones restantes en otro tratamiento.
+
+### ¿Se pueden hacer tratamientos en el embarazo o con varices?
+
+Con embarazo no hacemos maderoterapia, presoterapia ni radiofrecuencia; sí podemos ofrecer masaje de piernas suave con autorización de tu ginecólogo y tratamientos faciales sin activos contraindicados. Con varices marcadas evitamos trabajar directamente sobre el trayecto de la vena y adaptamos la técnica. Siempre preguntamos por antecedentes médicos, medicación y cirugías recientes antes de la primera sesión.
+
+## Área de servicio
+
+Zona de trabajo principal: Barcelona y alrededores.
+
+Páginas por zona:
+
+- [Eixample](https://www.estetica-barcelona.es/zonas/eixample/)
+- [Sants Montjuic](https://www.estetica-barcelona.es/zonas/sants-montjuic/)
+- [Les Corts](https://www.estetica-barcelona.es/zonas/les-corts/)
+
+## Equipo
+
+- **Jeisy** — Esteticista y responsable del centro. Esteticista de origen colombiano con más de una década de práctica en estética corporal y facial. Dirige Centro Estética Barcelona en el Eixample y es la responsable de los protocolos de maderoterapia y remodelación corporal del centro.
+
+## Contacto y ubicación
+
+- **Nombre:** Estetica Barcelona
+- **Web:** https://www.estetica-barcelona.es
 
 ## Recursos
 
-- [Página principal](https://www.estetica-barcelona.es/)
-- [Servicios de estética](https://www.estetica-barcelona.es/servicios/)
-- [Maderoterapia en Barcelona](https://www.estetica-barcelona.es/servicios/maderoterapia/)
-- [Tratamientos corporales](https://www.estetica-barcelona.es/servicios/tratamientos-corporales/)
-- [Tratamientos faciales](https://www.estetica-barcelona.es/servicios/tratamientos-faciales/)
-- [Micropigmentación de cejas](https://www.estetica-barcelona.es/servicios/micropigmentacion-cejas/)
-- [Masajes y drenaje linfático](https://www.estetica-barcelona.es/servicios/masajes/)
-- [Tarifas orientativas](https://www.estetica-barcelona.es/tarifas/)
-- [Centro y equipo](https://www.estetica-barcelona.es/sobre-nosotros/)
+- [Inicio](https://www.estetica-barcelona.es/)
+- [Servicios](https://www.estetica-barcelona.es/servicios/)
+- [Servicios › Maderoterapia](https://www.estetica-barcelona.es/servicios/maderoterapia/)
+- [Servicios › Tratamientos Corporales](https://www.estetica-barcelona.es/servicios/tratamientos-corporales/)
+- [Servicios › Tratamientos Faciales](https://www.estetica-barcelona.es/servicios/tratamientos-faciales/)
+- [Servicios › Micropigmentacion Cejas](https://www.estetica-barcelona.es/servicios/micropigmentacion-cejas/)
+- [Servicios › Masajes](https://www.estetica-barcelona.es/servicios/masajes/)
+- [Tarifas](https://www.estetica-barcelona.es/tarifas/)
+- [Sobre Nosotros](https://www.estetica-barcelona.es/sobre-nosotros/)
 - [Opiniones](https://www.estetica-barcelona.es/opiniones/)
-- [Zonas de servicio](https://www.estetica-barcelona.es/zonas/)
+- [Zonas](https://www.estetica-barcelona.es/zonas/)
 - [Blog](https://www.estetica-barcelona.es/blog/)
-- [Contacto y cita](https://www.estetica-barcelona.es/contacto/)
-- [Versió en català](https://www.estetica-barcelona.es/ca/)
-- [Aviso legal](https://www.estetica-barcelona.es/legal/)
-- [Política de privacidad](https://www.estetica-barcelona.es/privacidad/)
-- [Política de cookies](https://www.estetica-barcelona.es/cookies/)
-- [Mapa del sitio XML](https://www.estetica-barcelona.es/sitemap_index.xml)
+- [Contacto](https://www.estetica-barcelona.es/contacto/)
+- [Ca](https://www.estetica-barcelona.es/ca/)
+- [Ca › Serveis](https://www.estetica-barcelona.es/ca/serveis/)
+- [Ca › Contacte](https://www.estetica-barcelona.es/ca/contacte/)
+
+## Sitemap
+
+- [Mapa del sitio XML](https://www.estetica-barcelona.es/sitemap.xml)
+- [Este archivo](https://www.estetica-barcelona.es/llms.txt) sigue el estándar [llms.txt](https://llmstxt.org/) para asistentes de IA.

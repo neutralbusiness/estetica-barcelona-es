@@ -1,11 +1,11 @@
 # Estetica Barcelona
 
-> Estetica Barcelona es un negocio de estetica en Barcelona.
+> Centro de estética en el Eixample de Barcelona: maderoterapia, tratamientos corporales y faciales, micropigmentación de cejas y masajes, con valoración gratuita.
 
 ## Datos clave
 
 - **Nombre:** Estetica Barcelona
-- **Sector:** estetica
+- **Sector:** Centro de estética
 - **Localidad:** Barcelona, España
 - **Web oficial:** https://www.estetica-barcelona.es
 - **Idioma:** español

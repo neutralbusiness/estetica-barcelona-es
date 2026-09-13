@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "slug": "piernas-hinchadas-calor-drenaje-presoterapia",
+    "title": "Piernas hinchadas con el calor húmedo de Barcelona: drenaje linfático, presoterapia y sus límites",
+    "excerpt": "Tobillos que no caben en el zapato al final del día. Qué pueden hacer el drenaje manual y la presoterapia, en qué se diferencian y cuándo hay que ir antes al médico.",
+    "publishDate": "2026-09-10",
+    "category": "Corporal",
+    "image": "/img/blog-piernas-hinchadas-calor-drenaje-presoterapia.webp",
+    "readTime": 7,
+    "author": "Centro Estética Barcelona"
+  },
+  {
+    "slug": "masaje-descontracturante-trabajo-sentado",
+    "title": "Masaje descontracturante si trabajas sentado: qué alivia de verdad y cuándo toca el fisio",
+    "excerpt": "Trapecios como piedras después de ocho horas de pantalla. Lo que un masaje alivia, lo que no corrige y las señales para ir antes al fisio o al médico.",
+    "publishDate": "2026-09-06",
+    "category": "Masajes",
+    "image": "/img/blog-masaje-descontracturante-trabajo-sentado.webp",
+    "readTime": 6,
+    "author": "Centro Estética Barcelona"
+  },
+  {
+    "slug": "piel-despues-del-verano-barcelona",
+    "title": "La piel después del verano en Barcelona: manchas, sequedad y qué tratamiento facial toca en otoño",
+    "excerpt": "Septiembre es el mes en que la piel pasa factura del verano. Qué vemos en cabina, por qué empezamos por hidratar y cuándo toca pensar en manchas.",
+    "publishDate": "2026-09-02",
+    "category": "Faciales",
+    "image": "/img/blog-piel-despues-del-verano-barcelona.webp",
+    "readTime": 6,
+    "author": "Centro Estética Barcelona"
+  }
+]

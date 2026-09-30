@@ -41,8 +41,6 @@ User-agent: meta-externalagent
 Allow: /
 
 # Rastreadores comerciales de SEO
-User-agent: AhrefsBot
-Disallow: /
 User-agent: SemrushBot
 Disallow: /
 User-agent: MJ12bot
@@ -55,3 +53,7 @@ Disallow: /solicitud-recibida/
 
 Sitemap: https://www.estetica-barcelona.es/sitemap_index.xml
 Sitemap: https://www.estetica-barcelona.es/page-sitemap.xml
+
+# Ahrefs autorizado (auditorías SEO propias)
+User-agent: AhrefsBot
+Allow: /

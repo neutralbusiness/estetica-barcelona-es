@@ -2,6 +2,8 @@
 
 > Centro de estética en el Eixample de Barcelona: maderoterapia, tratamientos corporales y faciales, micropigmentación de cejas y masajes, con valoración gratuita.
 
+Cada página de esta web tiene versión en markdown: añade `index.md` a su URL (por ejemplo, https://www.estetica-barcelona.es/index.md).
+
 ## Datos clave
 
 - **Nombre:** Estetica Barcelona
